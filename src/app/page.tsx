@@ -34,7 +34,7 @@ export default function Home() {
           href="#contact"
           className="mt-6 inline-block bg-indigo-600 text-white px-6 py-2 rounded-lg hover:bg-indigo-700 transition"
         >
-          Let's Connect
+          Let&apos;s Connect
         </a>
       </section>
 
@@ -42,11 +42,11 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-4">
           <h3 className="text-2xl font-semibold mb-4">About Me</h3>
           <p className="text-gray-700 leading-relaxed">
-            I'm a full-stack web developer passionate about creating impactful
-            applications using Laravel and React. Over the past three years,
-            I've delivered solutions in e-commerce, internal business tools, and
-            most recently, healthcare—where I help hospitals streamline
-            electronic health records and reporting.
+            I&apos;m a full-stack web developer passionate about creating
+            impactful applications using Laravel and React. Over the past three
+            years, I&apos;ve delivered solutions in e-commerce, internal
+            business tools, and most recently, healthcare—where I help hospitals
+            streamline electronic health records and reporting.
           </p>
         </div>
       </section>
